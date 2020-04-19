@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Site</title>
+        <link>/</link>
+        <description>Recent content on Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru-ru</language>
+        <lastBuildDate>Sun, 19 Apr 2020 15:30:28 +0300</lastBuildDate>
+
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml"/>
+
+
+        <item>
+            <title>About post</title>
+            <link>/about/</link>
+            <pubDate>Sun, 19 Apr 2020 15:30:28 +0300</pubDate>
+
+            <guid>/about/</guid>
+            <description>Steve Francia</description>
+        </item>
+
+        <item>
+            <title>First Post</title>
+            <link>/posts/first-post/</link>
+            <pubDate>Sun, 19 Apr 2020 15:30:28 +0300</pubDate>
+
+            <guid>/posts/first-post/</guid>
+            <description>Hello world !!!</description>
+        </item>
+
+        <item>
+            <title>Post2</title>
+            <link>/posts/post2/</link>
+            <pubDate>Sun, 19 Apr 2020 15:30:28 +0300</pubDate>
+
+            <guid>/posts/post2/</guid>
+            <description>Hello world 22 !!!</description>
+        </item>
+
+        <item>
+            <title></title>
+            <link>/archives/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+            <guid>/archives/</guid>
+            <description></description>
+        </item>
+
+    </channel>
+</rss>
