@@ -3,20 +3,21 @@
 <head>
     <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <meta name='description' content='О развитии Человека и немного об IT.'>
+    <meta name='description' content=''>
     <meta name='theme-color' content='#ffcd00'>
 
-    <meta property='og:title' content='Не найдено! • Записки в Пути'>
-    <meta property='og:description' content='О развитии Человека и немного об IT.'>
-    <meta property='og:url' content='http://www.example.com/404.html'>
+    <meta property='og:title' content='Поиск • Записки в Пути'>
+    <meta property='og:description' content=''>
+    <meta property='og:url' content='http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/'>
     <meta property='og:site_name' content='Записки в Пути'>
-    <meta property='og:type' content='website'>
+    <meta property='og:type' content='article'>
+    <meta property='article:section' content='page'>
     <meta name='twitter:card' content='summary'>
 
     <meta name="generator" content="Hugo 0.69.0"/>
 
-    <title>Не найдено! • Записки в Пути</title>
-    <link rel='canonical' href='http://www.example.com/404.html'>
+    <title>Поиск • Записки в Пути</title>
+    <link rel='canonical' href='http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/'>
 
 
     <link rel='icon' href='/favicon.ico'>
@@ -30,7 +31,7 @@
 
 
 </head>
-<body class='error404 type-page has-sidebar'>
+<body class='page type-page layout-search has-sidebar'>
 
 <div class='site'>
     <div id='sidebar' class='sidebar'>
@@ -55,18 +56,6 @@
                         О развитии Человека и немного об IT.
                     </div>
                 </header>
-
-            </section>
-            <section class='widget widget-search sep-after'>
-                <header>
-                    <h4 class='title widget-title'>Поиск</h4>
-                </header>
-
-                <form action='/search' id='search-form' class='search-form'>
-                    <label>
-                        <span class='screen-reader-text'>Поиск</span>
-                        <input id='search-term' class='search-term' type='search' name='q' placeholder='Поиск&hellip;'>
-                    </label></form>
 
             </section>
             <section class='widget widget-taxonomy_cloud sep-after'>
@@ -137,23 +126,49 @@
         <main id='content'>
 
 
-            <div class='entry'>
-                <div class='container entry-content'>
-                    <span class='screen-reader-text'>Не найдено!</span>
-                    <figure class='gopher'>
-                        <a href='/'>
-                            <img src='/assets/gopher.png' alt='Gopher'/>
-                            <span class='screen-reader-text'>На главную...</span>
-                        </a>
-                        <figcaption>
-                            <h1 class='title'>
-                                <a href='/'>Не найдено!</a>
-                            </h1>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
+            <header class='header'>
+                <div class='container sep-after'>
+                    <div class='header-info'>
+                        <h1 class='title'>Поиск</h1>
 
+
+                    </div>
+                </div>
+            </header>
+
+
+            <div class='container'>
+                <section class='widget widget-search sep-after'>
+                    <header>
+                        <h4 class='title widget-title'>Поиск</h4>
+                    </header>
+
+                    <form action='/search' id='search-form' class='search-form'>
+                        <label>
+                            <span class='screen-reader-text'>Поиск</span>
+                            <input id='search-term' class='search-term' type='search' name='q'
+                                   placeholder='Поиск&hellip;'>
+                        </label>
+                        <button type='submit' class='search-submit'>
+                            <span class='screen-reader-text'>Поиск</span>
+                            <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round'
+                                 stroke-width='2' aria-hidden='true'>
+
+                                <circle cx="11" cy="11" r="8"/>
+                                <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+
+                            </svg>
+                        </button>
+                    </form>
+
+                </section>
+
+
+                <ul id='search-results' class='list search-results' data-results-empty='Ничего не найдено!'
+                    data-searching='Поиск ...'>
+                </ul>
+            </div>
+            <script src='/assets/js/fuse_search.1ada4bca.js'></script>
         </main>
 
         <footer id='footer' class='footer'>

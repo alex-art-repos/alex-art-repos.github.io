@@ -3,37 +3,47 @@
 >
 
     <url>
-        <loc>/about/</loc>
-        <lastmod>2020-04-19T15:30:28+03:00</lastmod>
+        <loc>http://www.example.com/</loc>
     </url>
 
     <url>
-        <loc>/posts/first-post/</loc>
-        <lastmod>2020-04-19T15:30:28+03:00</lastmod>
+        <loc>http://www.example.com/docs/</loc>
     </url>
 
     <url>
-        <loc>/posts/post2/</loc>
-        <lastmod>2020-04-19T15:30:28+03:00</lastmod>
+        <loc>http://www.example.com/about/</loc>
     </url>
 
     <url>
-        <loc>/posts/</loc>
-        <lastmod>2020-04-19T15:30:28+03:00</lastmod>
+        <loc>http://www.example.com/categories/</loc>
     </url>
 
     <url>
-        <loc>/</loc>
-        <lastmod>2020-04-19T15:30:28+03:00</lastmod>
+        <loc>http://www.example.com/tags/config/</loc>
     </url>
 
     <url>
-        <loc>/archives/</loc>
-        <priority>0</priority>
+        <loc>http://www.example.com/tags/it/</loc>
     </url>
 
     <url>
-        <loc>/tags/</loc>
+        <loc>http://www.example.com/page/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.example.com/series/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.example.com/tags/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.example.com/authors/</loc>
+    </url>
+
+    <url>
+        <loc>http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/</loc>
     </url>
 
 </urlset>
