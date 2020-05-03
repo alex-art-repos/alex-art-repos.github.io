@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>лекции on Записки в Пути</title>
+        <link>http://www.example.com/tags/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/</link>
+        <description>Recent content in лекции on Записки в Пути</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0600</lastBuildDate>
+
+        <atom:link href="http://www.example.com/tags/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/index.xml" rel="self"
+                   type="application/rss+xml"/>
+
+
+        <item>
+            <title>Обзор лекции &#34;Введение в Теорию Причинности&#34;</title>
+            <link>http://www.example.com/docs/review-the-lecture-introduction/</link>
+            <pubDate>Sun, 03 Jun 2018 00:00:00 +0600</pubDate>
+
+            <guid>http://www.example.com/docs/review-the-lecture-introduction/</guid>
+            <description>Внимание! Небольшой, местами тезисный обзор лекции (проходила в формате вебинара и личного
+                присутствия в ИЦДОМ &amp;ldquo;Айзорэль&amp;rdquo;) - не расшифровка! (желающие посмотреть запись могут
+                бесплатно получить доступ на сайте центра).
+                Несмотря на то, что некоторые фразы достаточно точно перенесены с видеозаписи, ведущий лекции не несет
+                ответственности за точность и корректность изложенного ниже. Некоторые обороты были дополнены мной без
+                специальных отметок и выделены как наиболее важные, поэтому во всех спорных местах - готов уточнить и
+                внести правки.
+            </description>
+        </item>
+
+    </channel>
+</rss>

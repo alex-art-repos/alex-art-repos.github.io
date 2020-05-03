@@ -5,9 +5,19 @@
         <link>http://www.example.com/authors/</link>
         <description>Recent content in Авторы on Записки в Пути</description>
         <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0600</lastBuildDate>
 
         <atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml"/>
 
+
+        <item>
+            <title>alex_art</title>
+            <link>http://www.example.com/authors/alex_art/</link>
+            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+
+            <guid>http://www.example.com/authors/alex_art/</guid>
+            <description></description>
+        </item>
 
     </channel>
 </rss>

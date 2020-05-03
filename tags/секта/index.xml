@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>секта on Записки в Пути</title>
+        <link>http://www.example.com/tags/%D1%81%D0%B5%D0%BA%D1%82%D0%B0/</link>
+        <description>Recent content in секта on Записки в Пути</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0600</lastBuildDate>
+
+        <atom:link href="http://www.example.com/tags/%D1%81%D0%B5%D0%BA%D1%82%D0%B0/index.xml" rel="self"
+                   type="application/rss+xml"/>
+
+
+        <item>
+            <title>Секта или нет</title>
+            <link>http://www.example.com/docs/sect-or-not/</link>
+            <pubDate>Mon, 01 Jan 2018 00:00:00 +0600</pubDate>
+
+            <guid>http://www.example.com/docs/sect-or-not/</guid>
+            <description>Услышав о Школе Причинности или о ее центрах (т.е. по сути цетрах изучения Теории Причинности и
+                авторского метода - об этом позже), люди склонны (согласно моему небольшому опросу - примерно пятая
+                часть опрошенных) назвать это словом &amp;ldquo;секта&amp;rdquo; и настороженно &amp;ldquo;закрыть тему&amp;rdquo;.
+                Разумный скептицизм и здравый смысл - безусловно вещи полезные и нужные, особенно в &amp;ldquo;тонких&amp;rdquo;
+                вопросах, когда нельзя открыть какую-нибудь авторитетную энциклопедию и найти понятное для себя
+                определение.
+                Однако стоит разобраться в этом вопросе чуть глубже, перейти от простого навешивания ярлыка к
+                формированию точки зрения.
+            </description>
+        </item>
+
+    </channel>
+</rss>

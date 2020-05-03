@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>люди on Записки в Пути</title>
+        <link>http://www.example.com/tags/%D0%BB%D1%8E%D0%B4%D0%B8/</link>
+        <description>Recent content in люди on Записки в Пути</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0600</lastBuildDate>
+
+        <atom:link href="http://www.example.com/tags/%D0%BB%D1%8E%D0%B4%D0%B8/index.xml" rel="self"
+                   type="application/rss+xml"/>
+
+
+        <item>
+            <title>Кто и зачем приходит в Школу?</title>
+            <link>http://www.example.com/docs/who-and-why-comes/</link>
+            <pubDate>Wed, 03 Jan 2018 00:00:00 +0600</pubDate>
+
+            <guid>http://www.example.com/docs/who-and-why-comes/</guid>
+            <description>Релевантных материалов на эту тему не нашел, поэтому просто личные наблюдения.
+                Речь о тех, кто пришел именно учиться, а не тех, кто периодически приходит на консультации, когда &amp;ldquo;прижимает&amp;rdquo;.
+                Последних, как мне кажется, значительно больше, разброс по возрасту и волнующим вопросам - шире, думаю,
+                не будет преувеличением, сказать, что если взять всех мастеров Школы, то они ведут приемы практически по
+                всем интересующим среднестатистического человека вопросам (и не только :) ). Это стоит понимать
+                правильно, не &amp;ldquo;серебрянная пуля&amp;rdquo;, а просто авторский метод имеет широкий круг
+                применения, позволяет гармонизировать многие сферы человеческой жизни.
+            </description>
+        </item>
+
+    </channel>
+</rss>
