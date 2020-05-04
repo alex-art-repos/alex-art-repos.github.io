@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>мечта on Записки в Пути</title>
-        <link>http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/</link>
-        <description>Recent content in мечта on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0600</lastBuildDate>
-
-        <atom:link href="http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/index.xml" rel="self"
-                   type="application/rss+xml"/>
-
-
-        <item>
-            <title>Мечтать правильно</title>
-            <link>http://www.example.com/docs/dreaming-right/</link>
-            <pubDate>Sat, 16 Mar 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/docs/dreaming-right/</guid>
-            <description>Мечты это хорошо. В детстве точно мечтали все. И, даже став взрослыми, многие продолжают это
-                делать. Есть, конечно, суровые пессимисты, убежденные, что «детские мечты» только вредят, нужно быть
-                реалистом и так далее, но я не о них. Когда-нибудь и они проснутся обязательно.
-                Всякая хорошая вещь (например, мечта), часто требует правильного к ней отношения. Любители мороженого
-                знают, что бывает, если переесть. :) Так и мечтать — надо уметь.
-                Что нам уже известно о мечте?
-            </description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>мечта on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/</link>
+    <description>Recent content in мечта on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Мечтать правильно</title>
+      <link>http://www.example.com/docs/dreaming-right/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/dreaming-right/</guid>
+      <description>Мечты это хорошо. В детстве точно мечтали все. И, даже став взрослыми, многие продолжают это делать. Есть, конечно, суровые пессимисты, убежденные, что «детские мечты» только вредят, нужно быть реалистом и так далее, но я не о них. Когда-нибудь и они проснутся обязательно.
+Всякая хорошая вещь (например, мечта), часто требует правильного к ней отношения. Любители мороженого знают, что бывает, если переесть. :) Так и мечтать — надо уметь.
+Что нам уже известно о мечте?</description>
+    </item>
+    
+  </channel>
 </rss>

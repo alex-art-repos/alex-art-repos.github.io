@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>буддизм on Записки в Пути</title>
-        <link>http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/</link>
-        <description>Recent content in буддизм on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0600</lastBuildDate>
-
-        <atom:link href="http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/index.xml" rel="self"
-                   type="application/rss+xml"/>
-
-
-        <item>
-            <title>Буддист в Новом Времени</title>
-            <link>http://www.example.com/docs/buddhist-in-the-new-age/</link>
-            <pubDate>Sat, 11 Aug 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/docs/buddhist-in-the-new-age/</guid>
-            <description>Так сложилось, что тема буддизма мне особенно близка. Но в свете Новых Знаний НТН и Теории
-                Причинности честному буддисту приходится пересматривать традиционное буддийское мировоззрение. Одним из
-                важных вопросов является отношение к Богу-Творцу и сотворению Мира. И хотя буддийское учение очень
-                разнообразно — достаточно ознакомиться со статье Википедии «Бог в буддизме», а приверженцы
-                многочисленных школ могут устроить длительные религиозно-философские дискуссии на данную тему, тем не
-                менее, как мне кажется, однозначную общепринятую аналогию в буддийском учении найти трудно (в отличии
-                от, например, христианства).
-            </description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>буддизм on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/</link>
+    <description>Recent content in буддизм on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Буддист в Новом Времени</title>
+      <link>http://www.example.com/docs/buddhist-in-the-new-age/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/buddhist-in-the-new-age/</guid>
+      <description>Так сложилось, что тема буддизма мне особенно близка. Но в свете Новых Знаний НТН и Теории Причинности честному буддисту приходится пересматривать традиционное буддийское мировоззрение. Одним из важных вопросов является отношение к Богу-Творцу и сотворению Мира. И хотя буддийское учение очень разнообразно — достаточно ознакомиться со статье Википедии «Бог в буддизме», а приверженцы многочисленных школ могут устроить длительные религиозно-философские дискуссии на данную тему, тем не менее, как мне кажется, однозначную общепринятую аналогию в буддийском учении найти трудно (в отличии от, например, христианства).</description>
+    </item>
+    
+  </channel>
 </rss>

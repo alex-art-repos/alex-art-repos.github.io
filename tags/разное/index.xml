@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>разное on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</link>
+    <description>Recent content in разное on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Перенёс посты</title>
+      <link>http://www.example.com/posts/2020-05-04/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/2020-05-04/</guid>
+      <description>Перенёс посты (в основном по ТП) из LiveJournal и ВК. Читать их сейчас - забавно. Почти все написал бы уже по-другому.
+Но пусть останутся как есть. Что написано пером (= опубликовано), то уже не удалить. :)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Записки в Пути</title>
-        <link>http://www.example.com/page/</link>
-        <description>Recent content in Pages on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-
-        <atom:link href="http://www.example.com/page/index.xml" rel="self" type="application/rss+xml"/>
-
-
-        <item>
-            <title>Обо мне</title>
-            <link>http://www.example.com/about/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-            <guid>http://www.example.com/about/</guid>
-            <description>Привет!
-                Я Алексей из славного города Санкт-Петербурга.
-                Собираю тут разные мысли на интересные мне темы:
-                развитие Человека теория Причинности и сопутствующие вопросы IT - программирование, дизайн систем,
-                работа в команде. Почему Причинность Школе Причинности уже 25 лет, но как показал небольшой опрос среди
-                знакомых гугл форма опроса, мало кто действительно с ней знаком как и с самой теорией. А то, что можно
-                почерпнуть из поисковиков за редким исключением, либо не соответствует действительности, либо мало
-                конструктивные эмоционально-агрессивные оценки.
-            </description>
-        </item>
-
-        <item>
-            <title>Поиск</title>
-            <link>http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-            <guid>http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/</guid>
-            <description></description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>Pages on Записки в Пути</title>
+    <link>http://www.example.com/page/</link>
+    <description>Recent content in Pages on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://www.example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Обо мне</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Привет!
+Я Алексей из славного города Санкт-Петербурга.
+Собираю тут разные мысли на интересные мне темы:
+ развитие Человека теория Причинности и сопутствующие вопросы IT - программирование, дизайн систем, работа в команде.  Почему Причинность Школе Причинности уже 25 лет, но как показал небольшой опрос среди знакомых гугл форма опроса, мало кто действительно с ней знаком как и с самой теорией. А то, что можно почерпнуть из поисковиков за редким исключением, либо не соответствует действительности, либо мало конструктивные эмоционально-агрессивные оценки.</description>
+    </item>
+    
+    <item>
+      <title>Поиск</title>
+      <link>http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>

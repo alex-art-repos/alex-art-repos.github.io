@@ -1,276 +1,257 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tags on Записки в Пути</title>
-        <link>http://www.example.com/tags/</link>
-        <description>Recent content in Tags on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
-
-        <atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
-
-
-        <item>
-            <title>начинающим</title>
-            <link>http://www.example.com/tags/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC/</link>
-            <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>программирование</title>
-            <link>
-                http://www.example.com/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/
-            </link>
-            <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>livejournal</title>
-            <link>http://www.example.com/tags/livejournal/</link>
-            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/livejournal/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>Метод Гоча работы в Причине</title>
-            <link>
-                http://www.example.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%BE%D1%87%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B5/
-            </link>
-            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%BE%D1%87%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B5/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>НТН</title>
-            <link>http://www.example.com/tags/%D0%BD%D1%82%D0%BD/</link>
-            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BD%D1%82%D0%BD/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>знание</title>
-            <link>http://www.example.com/tags/%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/</link>
-            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>мировоззрение</title>
-            <link>
-                http://www.example.com/tags/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/
-            </link>
-            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>наука</title>
-            <link>http://www.example.com/tags/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</link>
-            <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>Путь</title>
-            <link>http://www.example.com/tags/%D0%BF%D1%83%D1%82%D1%8C/</link>
-            <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BF%D1%83%D1%82%D1%8C/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>книги</title>
-            <link>http://www.example.com/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</link>
-            <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>тайм-менеджмент</title>
-            <link>
-                http://www.example.com/tags/%D1%82%D0%B0%D0%B9%D0%BC-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82/
-            </link>
-            <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D1%82%D0%B0%D0%B9%D0%BC-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>теория Причинности</title>
-            <link>
-                http://www.example.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/
-            </link>
-            <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>мечта</title>
-            <link>http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/</link>
-            <pubDate>Sat, 16 Mar 2019 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>Школа Причинности</title>
-            <link>
-                http://www.example.com/tags/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/
-            </link>
-            <pubDate>Sun, 30 Sep 2018 00:00:00 +0600</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>свобода</title>
-            <link>http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</link>
-            <pubDate>Sun, 30 Sep 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>познаемЖизнь</title>
-            <link>
-                http://www.example.com/tags/%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/
-            </link>
-            <pubDate>Sat, 08 Sep 2018 00:00:00 +0600</pubDate>
-
-            <guid>
-                http://www.example.com/tags/%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/
-            </guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>буддизм</title>
-            <link>http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/</link>
-            <pubDate>Sat, 11 Aug 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>тату</title>
-            <link>http://www.example.com/tags/%D1%82%D0%B0%D1%82%D1%83/</link>
-            <pubDate>Sun, 29 Jul 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D1%82%D0%B0%D1%82%D1%83/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>тауировка</title>
-            <link>http://www.example.com/tags/%D1%82%D0%B0%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</link>
-            <pubDate>Sun, 29 Jul 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D1%82%D0%B0%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>отзыв</title>
-            <link>http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/</link>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>лекции</title>
-            <link>http://www.example.com/tags/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/</link>
-            <pubDate>Sun, 03 Jun 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>Рунный Язык</title>
-            <link>http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</link>
-            <pubDate>Sun, 21 Jan 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>люди</title>
-            <link>http://www.example.com/tags/%D0%BB%D1%8E%D0%B4%D0%B8/</link>
-            <pubDate>Wed, 03 Jan 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D0%BB%D1%8E%D0%B4%D0%B8/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>секта</title>
-            <link>http://www.example.com/tags/%D1%81%D0%B5%D0%BA%D1%82%D0%B0/</link>
-            <pubDate>Mon, 01 Jan 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/tags/%D1%81%D0%B5%D0%BA%D1%82%D0%B0/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>Configuration222</title>
-            <link>http://www.example.com/tags/config/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-            <guid>http://www.example.com/tags/config/</guid>
-            <description></description>
-        </item>
-
-        <item>
-            <title>IT</title>
-            <link>http://www.example.com/tags/it/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-            <guid>http://www.example.com/tags/it/</guid>
-            <description></description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>Tags on Записки в Пути</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>разное</title>
+      <link>http://www.example.com/tags/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livejournal</title>
+      <link>http://www.example.com/tags/livejournal/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/livejournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vk</title>
+      <link>http://www.example.com/tags/vk/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/vk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Метод Гоча работы в Причине</title>
+      <link>http://www.example.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%BE%D1%87%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B5/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%BE%D1%87%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%B2-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>НТН</title>
+      <link>http://www.example.com/tags/%D0%BD%D1%82%D0%BD/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BD%D1%82%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>знание</title>
+      <link>http://www.example.com/tags/%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>мировоззрение</title>
+      <link>http://www.example.com/tags/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>наука</title>
+      <link>http://www.example.com/tags/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Путь</title>
+      <link>http://www.example.com/tags/%D0%BF%D1%83%D1%82%D1%8C/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BF%D1%83%D1%82%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>книги</title>
+      <link>http://www.example.com/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>тайм-менеджмент</title>
+      <link>http://www.example.com/tags/%D1%82%D0%B0%D0%B9%D0%BC-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%82%D0%B0%D0%B9%D0%BC-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>теория Причинности</title>
+      <link>http://www.example.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>мечта</title>
+      <link>http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BC%D0%B5%D1%87%D1%82%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>стихи</title>
+      <link>http://www.example.com/tags/%D1%81%D1%82%D0%B8%D1%85%D0%B8/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%81%D1%82%D0%B8%D1%85%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Школа Причинности</title>
+      <link>http://www.example.com/tags/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>свобода</title>
+      <link>http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>познаемЖизнь</title>
+      <link>http://www.example.com/tags/%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>буддизм</title>
+      <link>http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%B1%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>тату</title>
+      <link>http://www.example.com/tags/%D1%82%D0%B0%D1%82%D1%83/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%82%D0%B0%D1%82%D1%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>тауировка</title>
+      <link>http://www.example.com/tags/%D1%82%D0%B0%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%82%D0%B0%D1%83%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>отзыв</title>
+      <link>http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>лекции</title>
+      <link>http://www.example.com/tags/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рунный Язык</title>
+      <link>http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>люди</title>
+      <link>http://www.example.com/tags/%D0%BB%D1%8E%D0%B4%D0%B8/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D0%BB%D1%8E%D0%B4%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>секта</title>
+      <link>http://www.example.com/tags/%D1%81%D0%B5%D0%BA%D1%82%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/tags/%D1%81%D0%B5%D0%BA%D1%82%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration222</title>
+      <link>http://www.example.com/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>http://www.example.com/tags/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tags/it/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>

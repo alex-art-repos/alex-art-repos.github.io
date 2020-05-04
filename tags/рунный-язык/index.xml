@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Рунный Язык on Записки в Пути</title>
-        <link>http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</link>
-        <description>Recent content in Рунный Язык on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0600</lastBuildDate>
-
-        <atom:link
-                href="http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/index.xml"
-                rel="self" type="application/rss+xml"/>
-
-
-        <item>
-            <title>Что изучают в Школе</title>
-            <link>http://www.example.com/docs/what-are-studying/</link>
-            <pubDate>Sun, 21 Jan 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/docs/what-are-studying/</guid>
-            <description>Из чего же складывается обучение? Общая картина уже описывалась в предыдущих постах. Здесь
-                отмечу 2 основных направления:
-                Метод Гоча работы в Причине Патент, РАО - 1 Патент, РАО - 2 Рунный Язык РАО(Язык, технологии) РАО(Язык,
-                технологии) Полное и систематическое изложение обоих пунктов лучше получать у квалифицированных
-                преподавателей. Список центров есть на сайте Автора методики.
-            </description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>Рунный Язык on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</link>
+    <description>Recent content in Рунный Язык on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Что изучают в Школе</title>
+      <link>http://www.example.com/docs/what-are-studying/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/what-are-studying/</guid>
+      <description>Из чего же складывается обучение? Общая картина уже описывалась в предыдущих постах. Здесь отмечу 2 основных направления:
+ Метод Гоча работы в Причине    Патент, РАО - 1     Патент, РАО - 2   Рунный Язык    РАО(Язык, технологии)     РАО(Язык, технологии)   Полное и систематическое изложение обоих пунктов лучше получать у квалифицированных преподавателей. Список центров есть на сайте Автора методики.</description>
+    </item>
+    
+  </channel>
 </rss>

@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>свобода on Записки в Пути</title>
-        <link>http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</link>
-        <description>Recent content in свобода on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0600</lastBuildDate>
-
-        <atom:link href="http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/index.xml" rel="self"
-                   type="application/rss+xml"/>
-
-
-        <item>
-            <title>Свобода. Нужна ли она нам?</title>
-            <link>http://www.example.com/docs/freedom-we-need/</link>
-            <pubDate>Sun, 30 Sep 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/docs/freedom-we-need/</guid>
-            <description>&amp;hellip; современный человек просто не понимает, насколько он свободен в выборе своего
-                жизненного Пути.
-                В.П. Гоч: мы будем менять Запад, а не Запад нас
-                Сейчас часто говорят о свободе, независимости - как в личном плане, так и в контексте жизненного пути
-                (Instagram):
-                &amp;ldquo;И что ты называешь свободой?
-                - Ни о чем не просить.
-                Ни на что не надеяться.
-                Ни от чего не зависеть.&amp;rdquo;
-                Айн Рэнд, 460 лайков
-            </description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>свобода on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</link>
+    <description>Recent content in свобода on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Свобода. Нужна ли она нам?</title>
+      <link>http://www.example.com/docs/freedom-we-need/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/freedom-we-need/</guid>
+      <description>&amp;hellip; современный человек просто не понимает, насколько он свободен в выборе своего жизненного Пути.
+В.П. Гоч: мы будем менять Запад, а не Запад нас
+  Сейчас часто говорят о свободе, независимости - как в личном плане, так и в контексте жизненного пути (Instagram):
+ &amp;ldquo;И что ты называешь свободой?
+- Ни о чем не просить.
+Ни на что не надеяться.
+Ни от чего не зависеть.&amp;rdquo;
+Айн Рэнд, 460 лайков</description>
+    </item>
+    
+  </channel>
 </rss>

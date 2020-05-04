@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>стихи on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D1%81%D1%82%D0%B8%D1%85%D0%B8/</link>
+    <description>Recent content in стихи on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D1%81%D1%82%D0%B8%D1%85%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Новое — в нас, Новое — здесь</title>
+      <link>http://www.example.com/docs/novoe-v-nas/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/novoe-v-nas/</guid>
+      <description>Наверное, у каждого поколения есть свои знаковые песни, те, о которых говорят «мы на них выросли». В моем случае это, в числе прочих, песни группы «Кино»(В. Цой). Мы их слушали, пели под гитару, обменивались аудиокассетами, интересовались историей группы и фактами из жизни участников. Всё как обычно.
+Народными их, конечно, не назвать, но до сих пор даже под новогодней елкой на Дворцовой площади (СПб) можно легко услышать характерные аккорды и слова таких песен как: «Звезда по имени Солнце», «Группа крови», «Хочу перемен», «Алюминиевые огурцы» и т.</description>
+    </item>
+    
+  </channel>
+</rss>

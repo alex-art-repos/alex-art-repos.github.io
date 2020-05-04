@@ -1,45 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>отзыв on Записки в Пути</title>
-        <link>http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/</link>
-        <description>Recent content in отзыв on Записки в Пути</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0600</lastBuildDate>
-
-        <atom:link href="http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/index.xml" rel="self"
-                   type="application/rss+xml"/>
-
-
-        <item>
-            <title>Путеводная Искра</title>
-            <link>http://www.example.com/docs/guiding-spark/</link>
-            <pubDate>Sun, 01 Jul 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/docs/guiding-spark/</guid>
-            <description>«Я христианин», - говоришь ты и успокаиваешься на этом. Вот первая лесть - перенесение на себя
-                преимуществ и обетований христианских, без заботы об укоренении в себе истинного христианства, или
-                усвоение имени того, что может лежать и держаться только на силе и внутреннем достоинстве. Объясни же
-                себе, что обманчива надежда на имя, что Бог может и из камений воздвигнуть чад Аврааму и во всякое время
-                отменит Свои обетования, коль скоро не исполняются условия к участию в них.
-            </description>
-        </item>
-
-        <item>
-            <title>Отзыв на книгу &#34;На круги своя - циклы Вселенной&#34; В.П.Гоч, Е.А.Орлова</title>
-            <link>http://www.example.com/docs/review-the-book-cycles-of-the-universe/</link>
-            <pubDate>Sun, 10 Jun 2018 00:00:00 +0600</pubDate>
-
-            <guid>http://www.example.com/docs/review-the-book-cycles-of-the-universe/</guid>
-            <description>Недавно прочитал свежую книгу Василия Павловича в соавторстве с Орловой Е.А.
-                &amp;ldquo;На круги своя: циклы Вселенной&amp;rdquo; - Тюмень: Издательство &amp;ldquo;ИСТИНА&amp;rdquo;,
-                2018 - 160 с.
-                Согласно аннотации, в книге представлены научные гипотезы и теории о происхождении и развитии Вселенной.
-                Рассмотрена процессуальность Бытия в НТН, в том числе представлены знания о Едином, СамоСущем, Творце,
-                Предыстории и др. Рассмотрен вопрос рождения Вселенной и вопросы, которые возникают в этой связи:
-                начальная точка, размер, время существования и есть ли другие миры.
-            </description>
-        </item>
-
-    </channel>
+  <channel>
+    <title>отзыв on Записки в Пути</title>
+    <link>http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/</link>
+    <description>Recent content in отзыв on Записки в Пути</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tags/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Путеводная Искра</title>
+      <link>http://www.example.com/docs/guiding-spark/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/guiding-spark/</guid>
+      <description>«Я христианин», - говоришь ты и успокаиваешься на этом. Вот первая лесть - перенесение на себя преимуществ и обетований христианских, без заботы об укоренении в себе истинного христианства, или усвоение имени того, что может лежать и держаться только на силе и внутреннем достоинстве. Объясни же себе, что обманчива надежда на имя, что Бог может и из камений воздвигнуть чад Аврааму и во всякое время отменит Свои обетования, коль скоро не исполняются условия к участию в них.</description>
+    </item>
+    
+    <item>
+      <title>Отзыв на книгу &#34;На круги своя - циклы Вселенной&#34; В.П.Гоч, Е.А.Орлова</title>
+      <link>http://www.example.com/docs/review-the-book-cycles-of-the-universe/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/review-the-book-cycles-of-the-universe/</guid>
+      <description>Недавно прочитал свежую книгу Василия Павловича в соавторстве с Орловой Е.А.
+ &amp;ldquo;На круги своя: циклы Вселенной&amp;rdquo; - Тюмень: Издательство &amp;ldquo;ИСТИНА&amp;rdquo;, 2018 - 160 с.
+ Согласно аннотации, в книге представлены научные гипотезы и теории о происхождении и развитии Вселенной. Рассмотрена процессуальность Бытия в НТН, в том числе представлены знания о Едином, СамоСущем, Творце, Предыстории и др. Рассмотрен вопрос рождения Вселенной и вопросы, которые возникают в этой связи: начальная точка, размер, время существования и есть ли другие миры.</description>
+    </item>
+    
+  </channel>
 </rss>
