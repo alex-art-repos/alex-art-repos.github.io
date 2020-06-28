@@ -5,10 +5,19 @@
     <link>http://www.example.com/authors/alex_art/</link>
     <description>Recent content in alex_art on Записки в Пути</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://www.example.com/authors/alex_art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>100%-е трудоустройство, но без пенсии</title>
+      <link>http://www.example.com/docs/100pct-work/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/100pct-work/</guid>
+      <description>Работа занимает важное место в жизни человека. Кто-то ещё помнит, как родители, движимые беспокойством о будущем своих детей, говорили: &amp;ldquo;Будешь плохо учиться, пойдешь работать тем-то и тем-то&amp;rdquo;. Причём это &amp;ldquo;тем-то&amp;rdquo; сильно зависело от среды и общего культурного и социального уровня конкретной семьи, личных предпочтений или страхов родителей. Взрослея, человек начинал понимать (в норме :) ), что кроме обычного трудоустройства - работы по профессии, есть ещё невидимый, временами трудный (ключевое слово &amp;ldquo;труд&amp;rdquo;), но постоянный, практически круглосуточный, фронт работы - по выстраиванию отношений с друзьями и близкими, в семье, на &amp;ldquo;работе&amp;rdquo;, в любом общественном месте; &amp;ldquo;работа с собой&amp;rdquo; - своими целями, планами, желаниями и т.</description>
+    </item>
     
     <item>
       <title>Научность ненаучного</title>
