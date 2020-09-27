@@ -5,10 +5,20 @@
     <link>http://www.example.com/authors/alex_art/</link>
     <description>Recent content in alex_art on Записки в Пути</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://www.example.com/authors/alex_art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>В волшебном саду</title>
+      <link>http://www.example.com/docs/faerie-garden/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/docs/faerie-garden/</guid>
+      <description>Как можно представить роль руководителя коллектива?
+Образно это садовник фруктового сада. Каждый участник коллектива — плодоносящее дерево. Найм на работу — саженца или уже взрослого дерева — это пересадка в новую почву. Он может прижиться и вырасти в мощное дерево, а может начать увядать. Плоды — результат труда, творчества. Каждодневный труд садовника — обеспечить условия. Это и наличие ресурсов, и соответствующий климат, и своевременная помощь при болезнях или вредителях. У каждого дерева своя внутренняя логика развития и плодоношения.</description>
+    </item>
     
     <item>
       <title>Никто кроме вас - советы часто не помогают</title>
